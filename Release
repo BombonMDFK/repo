@@ -1,0 +1,7 @@
+Origin: BombonMDFK
+Label: ZoomV4
+Suite: stable
+Version: 2.10.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
